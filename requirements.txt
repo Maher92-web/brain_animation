@@ -1,0 +1,6 @@
+NumPy and SciPy (>= 1.13)
+Matplotlib (>= 1.5.5)
+VisPy (>= 0.5.3)
+PyQt5
+PyOpenGL
+Pillow
